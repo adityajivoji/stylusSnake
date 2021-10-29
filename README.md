@@ -122,6 +122,8 @@ This resets all the values to initial values
 ## Contributers
 * Aaditya Rudra
 * Aditya Jivoji
+* Aradhy Jain
+* Gunjan Paliwal
 * Lovesh Goyal
 * Soumyadeep Ghosh
-
+* Tabita Sneha
