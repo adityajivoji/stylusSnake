@@ -118,12 +118,3 @@ This resets all the values to initial values
 ## Resources
 * [opencv tutorials](https://docs.opencv.org/4.5.2/d6/d00/tutorial_py_root.html)
 * [pygame documentation](https://www.pygame.org/docs/)
-
-## Contributers
-* Aaditya Rudra
-* Aditya Jivoji
-* Aradhy Jain
-* Gunjan Paliwal
-* Lovesh Goyal
-* Soumyadeep Ghosh
-* Tabita Sneha
